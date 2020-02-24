@@ -1,0 +1,10 @@
+Subject: %SUBJECT%
+
+Hello %FIRSTNAME%,
+
+Mail merge doesn't need to be a SaaS. You can just do it yourself using this little helper. It replaces placeholders based on the CSV file and triggers a "mailto"-URL call in your browser.
+
+%CUSTOMSENTENCE%
+
+Cheers,
+%SENDER%

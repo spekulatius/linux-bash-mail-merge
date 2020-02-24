@@ -1,0 +1,2 @@
+Subject,FirstName,Email,CustomSentence,Sender
+Test Email,Peter,not@real.email,It is easy to send emails using the bash mail merger helper.,Peter

@@ -1,0 +1,27 @@
+{
+    "name": "spekulatius/linux-bash-mail-merge",
+    "description": "Mail merge tool for bash",
+    "keywords": [
+        "mail-merge",
+        "bash"
+    ],
+    "homepage": "https://peterthaleikis.com/posts/mail-merge-for-linux/",
+    "license": "MPL-2.0",
+    "authors": [
+        {
+            "name": "Peter Thaleikis",
+            "homepage": "https://peterthaleikis.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "require-dev": {
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
